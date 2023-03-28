@@ -72,6 +72,15 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void gtan9_jchen348(){
+    printf("GuoMing Tan, Jiajin Chen\n");
+    printf("We learned the effectiveness of git and GitHub for collaboration on large"    
+           "projects, emphasizing their capabilities for version control, organization," 
+           "and streamlined remote repository management. Key concepts covered include"
+           "cloning over ssh, using git over Google Drive, and the various ways to"
+           "manipulate a GitHub repository file.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +92,6 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
-
+  gtan9_jchen348();
   return 0;
 }
